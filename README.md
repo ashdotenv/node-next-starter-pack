@@ -43,7 +43,7 @@ The server is built with Node.js and Express, using TypeScript for type safety. 
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ashdotenv/node-next-starter-pack
    cd node-next-starter-pack
    ```
 
